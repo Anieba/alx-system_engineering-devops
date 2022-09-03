@@ -1,1 +1,1 @@
-File type
+Betty in my first directory
